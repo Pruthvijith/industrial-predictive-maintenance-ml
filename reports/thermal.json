@@ -1,0 +1,8 @@
+{
+  "seed": 821,
+  "unit": "synthetic degrees Celsius",
+  "held_out_assets": 8,
+  "n": 128,
+  "physical_features_f1": 0.9609160305343512,
+  "cnn_f1": 0.9530791788856305
+}

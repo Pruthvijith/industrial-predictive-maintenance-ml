@@ -1,0 +1,49 @@
+{
+  "seed": 810,
+  "train_assets": 18,
+  "test_assets": 6,
+  "n": 144,
+  "sampling_Hz": 512,
+  "results": {
+    "spectral_logistic": {
+      "macro_f1": 1.0,
+      "confusion": [
+        [
+          48,
+          0,
+          0
+        ],
+        [
+          0,
+          48,
+          0
+        ],
+        [
+          0,
+          0,
+          48
+        ]
+      ]
+    },
+    "spectrogram_cnn": {
+      "macro_f1": 0.9721739130434782,
+      "confusion": [
+        [
+          48,
+          0,
+          0
+        ],
+        [
+          4,
+          44,
+          0
+        ],
+        [
+          0,
+          0,
+          48
+        ]
+      ]
+    }
+  }
+}

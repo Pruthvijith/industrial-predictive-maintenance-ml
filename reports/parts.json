@@ -1,0 +1,10 @@
+{
+  "train_orders": 1120,
+  "test_orders": 320,
+  "seed": 188,
+  "recall_at_5": {
+    "global_popularity": 0.19375,
+    "conditional_counts": 0.909375,
+    "embeddings": 0.903125
+  }
+}

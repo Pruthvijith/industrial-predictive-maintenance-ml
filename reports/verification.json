@@ -1,0 +1,11 @@
+{
+  "project": "industrial-predictive-maintenance-ml",
+  "pytest_passed": 5,
+  "source_statements": 237,
+  "missed_statements": 26,
+  "statement_coverage": 89.03,
+  "coverage_scope": "condition",
+  "mypy": "Success: no issues found in 5 source files",
+  "ruff": "check and format passed",
+  "ci": "configured; hosted run unverified"
+}
